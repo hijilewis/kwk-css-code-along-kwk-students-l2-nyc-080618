@@ -22,4 +22,5 @@ h1{
   text-shadow: 2px 2px red ;
   border: 1px dotted red;
   border-style: inset;
+  text-align: center; 
 }
