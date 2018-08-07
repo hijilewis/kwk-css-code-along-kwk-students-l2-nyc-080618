@@ -17,3 +17,6 @@ body {
       letter-spacing: 5px;
       transition: rotate(-30)deg;
     }
+h1{
+  font-family: 'Kirang Haerang', cursive;
+}
