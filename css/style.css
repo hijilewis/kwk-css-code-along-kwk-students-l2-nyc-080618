@@ -6,6 +6,7 @@ body {
        }
 .myClass {
       background-color: hotpink;
+      border: 1px dotted red;
       color: blue
     }
 .anExampleClass {
