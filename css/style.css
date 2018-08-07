@@ -20,4 +20,5 @@ body {
 h1{
   font-family: 'Kirang Haerang', cursive;
   text-shadow: 2px 2px red ;
+  border: 1px dotted red;
 }
